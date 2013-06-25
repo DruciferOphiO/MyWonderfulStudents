@@ -1,0 +1,29 @@
+/* Classes list screen */
+"Classes" = "Classes";
+
+/* Teacher */
+"Teacher Information" = "Teacher Information"
+"Title" = "Title"
+"First Name" = "First Name"
+"Middle Name" = "Middle Name"
+"Last Name" = "Last Name"
+"Name Suffix" = "Name Suffix"
+"Email" = "Email"
+
+/* Class edit screen */
+"Class Name" = "Class Name"
+"Send Attendance" = "Send Attendance Notifications"
+"Send Conduct" = "Send Conduct Notifications"
+"Send Tests" = "Email Test Results"
+"Delete Class" = "Delete Class"
+"No Class Name" = "Please enter a Class Name"
+
+/* Classes list screen */
+"Students" = "Students Title"
+"ID" = "Student ID"
+
+/* General *"
+"My Wonderful Students" = "My Wonderful Students"
+"Validation Error" = "Validation Msg"
+"Validation Error" = "Validation Msg"
+"No Student Last Name" = "Validation Msg"
